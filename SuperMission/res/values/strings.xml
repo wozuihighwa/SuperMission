@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">任务达人</string>
+    <string name="action_settings">Settings</string>
+    <!-- Drawer -->
+    <string name="draw_open">Open navigation drawer</string>
+    <string name="draw_close">Close navigation drawer</string>
+    <!-- 主界面显示 -->
+    <string name="balance_text">账户余额</string>
+    <string name="balance_unit">元</string>
+    <!-- 四个按钮 -->
+    <string name="everyday_sign_in">签到捡钱</string>
+    <string name="happy_time">休闲娱乐</string>
+    <string name="friend_share">好友分享</string>
+    <string name="setting">个人设置</string>
+    <!-- 个人设置标题 -->
+    <string name="basic_setting">基本</string>
+    <string name="more_setting">更多</string>
+    <!-- 提现标题 -->
+    <string name="charge_record">收支记录</string>
+    <!-- 任务标题 -->
+    <string name="task_title">每日任务</string>
+
+</resources>
